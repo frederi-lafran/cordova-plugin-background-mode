@@ -18,7 +18,7 @@
     <author>Sebastián Katzer</author>
 
     <!-- dependencies -->
-    <dependency id="cordova-plugin-device" />
+    <!-- dependency id="cordova-plugin-device" / -->
 
     <!-- cordova -->
     <engines>
